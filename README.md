@@ -34,6 +34,27 @@ This project aims to address:
 The motivation comes from cold-chain and sustainable logistics topics studied in Purchasing and Logistics Engineering. The idea is to create a simple, explainable AI helper that logistics operators could realistically adopt.
 
 ---
+## Data sources and AI methods
+
+### Data sources
+SmartColdChain relies on data commonly available in cold-chain operations, such as:
+
+- IoT temperature sensors inside vehicles or cold rooms  
+- Humidity and door-open sensors  
+- GPS location and vehicle speed tracking  
+- Optional metadata: product category, route information, delivery time windows  
+
+These datasets can come from commercial telematics systems, open IoT platforms, or simulated sample data for prototyping.
+
+### AI methods
+The prototype applies simple and explainable machine-learning techniques:
+
+- **Logistic regression** to estimate probability of entering an unsafe temperature zone  
+- **Moving averages and trend extraction** to detect upward or downward temperature drift  
+- **Anomaly detection** (z-score or IQR based) to flag sudden abnormal values  
+- **Optional:** time-series forecasting models (Holt-Winters or exponential smoothing) to predict future risk
+
+These choices keep the system lightweight, transparent, and suitable for SMEs with limited data.
 
 ## How it is used  
 
