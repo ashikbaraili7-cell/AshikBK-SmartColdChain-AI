@@ -1,4 +1,6 @@
 # AshikBK-SmartColdChain-AI
+### ![image of an onlineRefrigerated trucks](https://content.wheelz.me/wp-content/uploads/2023/01/23DT037_044.webp)
+
 
 
                               
@@ -6,12 +8,7 @@
 # SmartColdChain – AI-Powered Temperature Risk Detection  
 Final project for the Building AI course
 
-## Summary  
-SmartColdChain is an early-warning AI system that predicts temperature risks in food and pharmaceutical cold-chain logistics. It uses real-time sensor data and simple machine-learning models to detect anomalies before spoilage occurs.  
-Building AI course project.
-
 ---
-
 ## Background  
 Cold-chain failures are a serious issue in logistics. Even a small temperature deviation can spoil vaccines, pharmaceuticals, or perishable food. In Finland, this challenge is amplified by:
 
