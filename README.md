@@ -1,12 +1,16 @@
 # AshikBK-SmartColdChain-AI
-### ![image of an onlineRefrigerated trucks](https://content.wheelz.me/wp-content/uploads/2023/01/23DT037_044.webp)
-
-
-
-                              
-
 # SmartColdChain – AI-Powered Temperature Risk Detection  
-Final project for the Building AI course
+
+---
+# Summary
+Smart Cold Chain Monitor (SCCM) uses AI to predict temperature risks in food and pharmaceutical logistics. It analyzes real-time sensor data, detects anomalies, and alerts operators before spoilage occurs. A simple tool designed for SMEs to reduce waste and protect product quality.
+
+----
+ Building AI course project
+
+
+### ![image of an onlineRefrigerated trucks](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2008_Rally_Finland_preparations_07.JPG/1200px-2008_Rally_Finland_preparations_07.JPG?20120718080357)
+
 
 ---
 ## Background  
@@ -116,8 +120,6 @@ Possible future directions:
 
 - Any external images, code samples, or datasets (if later added) will be used only under appropriate open-source or Creative Commons licences, and properly credited.
 
----
-### Summary
-Smart Cold Chain Monitor (SCCM) uses AI to predict temperature risks in food and pharmaceutical logistics. It analyzes real-time sensor data, detects anomalies, and alerts operators before spoilage occurs. A simple tool designed for SMEs to reduce waste and protect product quality.
+
 
 
