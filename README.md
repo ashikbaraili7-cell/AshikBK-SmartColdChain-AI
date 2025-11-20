@@ -1,6 +1,5 @@
-# AshikBK-SmartColdChain-AI
 # SmartColdChain – AI-Powered Temperature Risk Detection  
-# "##Summary"
+# ##Summary
 Smart Cold Chain Monitor (SCCM) uses AI to predict temperature risks in food and pharmaceutical logistics. It analyzes real-time sensor data, detects anomalies, and alerts operators before spoilage occurs. A simple tool designed for SMEs to reduce waste and protect product quality.
 
 ----
@@ -58,25 +57,25 @@ These choices keep the system lightweight, transparent, and suitable for SMEs wi
 
 SmartColdChain integrates into a typical cold-chain operation:
 
-1. **Data collection**  
+### **Data collection**  
    IoT sensors continuously measure:
    - Temperature  
    - Humidity  
    - GPS position  
    - Vehicle speed  
 
-2. **Data preprocessing**  
+### **Data preprocessing**  
    The system:
    - Removes obvious sensor errors  
    - Smooths data with moving averages  
    - Extracts features such as trends and rates of change  
 
-3. **Risk prediction**  
+### **Risk prediction**  
    The AI model:
    - Estimates the probability that temperature is moving towards an unsafe range  
    - Flags abnormal patterns that indicate risk  
 
-4. **Alerts and actions**  
+### **Alerts and actions**  
    If risk is detected:
    - Drivers receive a notification (for example, through a mobile app or in-cab display)  
    - Control room staff see warnings on a dashboard  
@@ -85,7 +84,7 @@ SmartColdChain integrates into a typical cold-chain operation:
    - Rerouting or prioritising delivery  
    - Moving goods to another unit  
 
-### Typical users  
+## Typical users  
 
 - Logistics companies operating refrigerated vehicles  
 - Food distributors and retailers  
@@ -94,7 +93,7 @@ SmartColdChain integrates into a typical cold-chain operation:
 - Quality and compliance teams
   
 ---
-### Challenges
+## Challenges
 
 SmartColdChain does not solve all cold-chain problems. Important limitations include:
 
@@ -111,7 +110,7 @@ SmartColdChain does not solve all cold-chain problems. Important limitations inc
 The system is intended as a decision-support tool, not as an automatic replacement for human judgement or regulatory audits.
 
 ---
-### What next?
+## What next?
 
 
 Possible future directions:
@@ -129,7 +128,7 @@ Possible future directions:
 - With more data and collaboration from industry, SmartColdChain could evolve from a prototype into a production-level monitoring service.
 
   ---
- ### Acknowledgments
+ ## Acknowledgments
 
 - Developed as part of the Building AI course by the University of Helsinki and Reaktor
 
