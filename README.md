@@ -5,7 +5,7 @@ Smart Cold Chain Monitor (SCCM) uses AI to predict temperature risks in food and
 
 ----
 
- Building AI course project
+Building AI course project
 
 ---
 
