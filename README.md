@@ -6,7 +6,7 @@ Smart Cold Chain Monitor (SCCM) uses AI to predict temperature risks in food and
  Building AI course project
 
 
-### ![image of an onlineRefrigerated trucks](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2008_Rally_Finland_preparations_07.JPG/1200px-2008_Rally_Finland_preparations_07.JPG?20120718080357)
+### ![image of an onlineRefrigerated trucks](https://upload.wikimedia.org/wikipedia/commons/8/80/2008_Rally_Finland_preparations_08.JPG)
 
 
 ---
