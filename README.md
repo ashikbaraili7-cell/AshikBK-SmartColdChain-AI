@@ -1,6 +1,6 @@
 # SmartColdChain – AI-Powered Temperature Risk Detection  
 ---
-# ##Summary
+## Summary
 Smart Cold Chain Monitor (SCCM) uses AI to predict temperature risks in food and pharmaceutical logistics. It analyzes real-time sensor data, detects anomalies, and alerts operators before spoilage occurs. A simple tool designed for SMEs to reduce waste and protect product quality.
 
 ----
